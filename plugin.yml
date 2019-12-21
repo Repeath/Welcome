@@ -1,0 +1,8 @@
+name: IntervexCore
+main: IntervexCore/main
+version: 1.0.0
+api: 3.0.0
+
+load: POSTWORLD
+author: Ryux
+description: The Offical Core for Intervex Network!
